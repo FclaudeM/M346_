@@ -14,4 +14,4 @@ Dieses Repository enthält verschiedene Dokumente, die verschiedene Aspekte der 
 
 [Verschiedene Arten von Cloud](https://github.com/FclaudeM/M346_/blob/main/Verschiedene%20Arten%20von%20Cloud.md)
 
-
+Claude Mathys 13.02.2024
