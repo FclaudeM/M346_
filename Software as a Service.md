@@ -9,6 +9,9 @@ Sämtliche Angebote von Anwendungen, die den Kriterien des Cloud Computing entsp
 ## Beispiele für SaaS
 
 Microsoft 365
+
 HubSpot
+
 Dropbox
+
 Slack
