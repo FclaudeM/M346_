@@ -13,12 +13,11 @@ Im IaaS-Modell bietet ein Cloud-Anbieter die gesamte IT-Infrastruktur als Dienst
 ## Beispiele für IaaS
 
 Microsoft Azure
+
 Amazon Web Services
+
 Google Cloud Infrastructure
+
 IBM Cloud
+
 Oracle Cloud Infrastructure
-
-
-
-
->>>>>>> dd43c67a96a1ea569b123c0452f6f9504c086147
