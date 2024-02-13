@@ -9,8 +9,13 @@ Ein PaaS-Provider stellt eine komplette Infrastruktur bereit und bietet dem Kund
 ## Beispiele für PaaS
 
 Google App Engine (GAE)
+
 Microsoft Azure
+
 force.com von Salesforce
+
 Amazon EC2
+
 Red Hat OpenShift on IBM Cloud
+
 Google Run
